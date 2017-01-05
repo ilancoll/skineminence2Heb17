@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonts>
+
+    <fontset id="Arial" unicode="true">
+
+        <!-- Fonts from Eminence -->
+        <font>
+            <name>Font-Header</name>
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>75</size>
+        </font>
+        <font>
+            <name>Font-Sublabel</name>
+            <filename>OpenSansHebrew-Bold.ttf</filename><!--תאריך טמפ׳ וכו -->
+            <size>32</size>
+        </font>
+        <font>
+            <name>Font-HomeMenu</name>
+            <filename>Roboto-Regular.ttf</filename>
+            <size>28</size>
+        </font>
+        <font>
+            <name>Font-Button</name>
+            <filename>Roboto-Bold.ttf</filename>
+            <size>32</size>
+        </font>
+        <font>
+            <name>Font-Button-Black</name>
+            <filename>Roboto-Black.ttf</filename>
+            <size>32</size>
+        </font>
+        <font>
+            <name>Font-ListInfo-Bold</name>
+            <filename>Roboto-Bold.ttf</filename>
+            <size>30</size>
+            <linespacing>1.08</linespacing>
+        </font>
+        <font>
+            <name>Font-ListInfo</name>
+            <filename>Roboto-Regular.ttf</filename>
+            <size>30</size>
+            <linespacing>1.08</linespacing>
+        </font>
+        <font>
+            <name>Font-ListInfo-Big</name>
+            <filename>Roboto-Regular.ttf</filename>
+            <size>38</size>
+            <linespacing>1.08</linespacing>
+        </font>
+        <font>
+            <name>Font-ListInfo-Small</name><!--הגדרות פנימיות -->
+            <filename>Roboto-Regular.ttf</filename>
+            <size>27</size>
+        </font>
+        <font>
+            <name>Font-RSS</name>
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>24</size>
+        </font>
+        <font>
+            <name>Font-ListInfo-Small-Bold</name><!-- תיאור -->
+            <filename>OpenSansHebrew-Regular.ttf</filename>
+            <size>27</size>
+        </font>
+        <font>
+            <name>Font-ListInfo-Small-Bold2</name>
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>33</size>
+        </font>
+        <font>
+            <name>Font-OSD</name>
+            <filename>Roboto-Regular.ttf</filename>
+            <size>25</size>
+            <aspect>0.9</aspect>
+        </font>
+        <font>
+            <name>Font-InfoBox-Title</name>
+            <filename>Roboto-Black.ttf</filename>
+            <size>36</size>
+        </font>
+        <font>
+            <name>Font-InfoBox-Title2</name>
+            <filename>OpenSansHebrew-Regular.ttf</filename>
+            <size>36</size>
+        </font>        
+        <font>
+            <name>Font-WidgetInfoTitle</name>
+            <filename>Roboto-Black.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>Font-WidgetInfoTitle2</name><!-- שם הסרט -->
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>Font-WidgetInfoTitle3</name>
+            <filename>OpenSansHebrew-Regular.ttf</filename>
+            <size>36</size>
+        </font>  
+        <font>
+            <name>Font-Header-He2</name><!-- כותרת מדיה סנטר -->
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>45</size>
+        </font>
+         <font>
+            <name>Font-Header-He01</name><!--2 כותרת מדיה סנטר -->
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>25</size>
+        </font>
+        <font>
+            <name>Font-Header-He3</name><!-- שם הסרט -->
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>36</size>
+        </font>  
+        <font>
+            <name>Font-Header-He4</name>
+            <filename>OpenSansHebrew-Regular.ttf</filename>
+            <size>27</size>
+        </font>                 
+        <font>
+            <name>Font-Sublabel_2</name>
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>26</size>
+        </font>
+        <font>
+            <name>Font-Sublabel_Tv</name>
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>30</size>
+        </font>        
+        <font>
+            <name>Font-Header-He_Music_3</name><!-- האומן -->
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>70</size>
+        </font>                      
+        <font>
+            <name>Font-Header-He_Music_5</name><!-- הבא -->
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>21</size>
+        </font> 
+        <font>
+            <name>Font-Header-He_Music_6</name><!-- מידע על השיר הבא -->
+            <filename>OpenSansHebrew-BoldItalic.ttf</filename>
+            <size>21</size>
+        </font>          
+        <font>
+            <name>Font-Header-He_Music_4</name><!-- זמן -->
+            <filename>OpenSansHebrew-Bold.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>Font-lycros</name><!-- מילים לשיר -->
+            <filename>WCManoNegraBta.ttf</filename>
+            <size>48</size>
+        </font> 
+         <font>
+            <name>Font-ListInfo2</name>
+            <filename>OpenSansHebrew-Regular.ttf</filename>
+            <size>30</size>
+            <linespacing>1.08</linespacing>
+        </font>  
+        <font>
+            <name>Font-OSD2</name>
+            <filename>OpenSansHebrew-Regular.ttf</filename>
+            <size>25</size>
+            <aspect>0.9</aspect>
+        </font>
+         <font>
+            <name>Font-Button2</name>
+            <filename>OpenSansHebrew-Regular.ttf</filename>
+            <size>32</size>
+        </font>                                                   
+        <!-- Required for system -->
+        <font>
+            <name>font13</name>
+            <filename>Arial.ttf</filename>
+            <size>21</size>
+        </font>
+
+	</fontset>
+		<fontset id="Hebrew">
+        <font>
+            <name>Font-Header</name>
+            <filename>arial.ttf</filename>
+            <size>75</size>
+        </font>
+        <font>
+            <name>Font-Sublabel</name>
+            <filename>arial.ttf</filename><!--תאריך טמפ׳ וכו -->
+            <size>32</size>
+        </font>
+        <font>
+            <name>Font-HomeMenu</name>
+            <filename>arial.ttf</filename>
+            <size>28</size>
+        </font>
+        <font>
+            <name>Font-Button</name>
+            <filename>arial.ttf</filename>
+            <size>32</size>
+        </font>
+        <font>
+            <name>Font-Button-Black</name>
+            <filename>arial.ttf</filename>
+            <size>32</size>
+        </font>
+        <font>
+            <name>Font-ListInfo-Bold</name>
+            <filename>arial.ttf</filename>
+            <size>30</size>
+            <linespacing>1.08</linespacing>
+        </font>
+        <font>
+            <name>Font-ListInfo</name>
+            <filename>arial.ttf</filename>
+            <size>30</size>
+            <linespacing>1.08</linespacing>
+        </font>
+        <font>
+            <name>Font-ListInfo-Big</name>
+            <filename>arial.ttf</filename>
+            <size>38</size>
+            <linespacing>1.08</linespacing>
+        </font>
+        <font>
+            <name>Font-ListInfo-Small</name><!--הגדרות פנימיות -->
+            <filename>arial.ttf</filename>
+            <size>27</size>
+        </font>
+        <font>
+            <name>Font-RSS</name>
+            <filename>arial.ttf</filename>
+            <size>24</size>
+        </font>
+        <font>
+            <name>Font-ListInfo-Small-Bold</name><!-- תיאור -->
+            <filename>arial.ttf</filename>
+            <size>27</size>
+        </font>
+        <font>
+            <name>Font-ListInfo-Small-Bold2</name>
+            <filename>arial.ttf</filename>
+            <size>33</size>
+        </font>
+        <font>
+            <name>Font-OSD</name>
+            <filename>arial.ttf</filename>
+            <size>25</size>
+            <aspect>0.9</aspect>
+        </font>
+        <font>
+            <name>Font-InfoBox-Title</name>
+            <filename>arial.ttf</filename>
+            <size>36</size>
+        </font>
+        <font>
+            <name>Font-InfoBox-Title2</name>
+            <filename>arial.ttf</filename>
+            <size>36</size>
+        </font>        
+        <font>
+            <name>Font-WidgetInfoTitle</name>
+            <filename>arial.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>Font-WidgetInfoTitle2</name><!-- שם הסרט -->
+            <filename>arial.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>Font-WidgetInfoTitle3</name>
+            <filename>arial.ttf</filename>
+            <size>36</size>
+        </font>  
+        <font>
+            <name>Font-Header-He2</name><!-- כותרת מדיה סנטר -->
+            <filename>arial.ttf</filename>
+            <size>45</size>
+        </font>
+         <font>
+            <name>Font-Header-He01</name><!--2 כותרת מדיה סנטר -->
+            <filename>arial.ttf</filename>
+            <size>25</size>
+        </font>
+        <font>
+            <name>Font-Header-He3</name><!-- שם הסרט -->
+            <filename>arial.ttf</filename>
+            <size>36</size>
+        </font>  
+        <font>
+            <name>Font-Header-He4</name>
+            <filename>arial.ttf</filename>
+            <size>27</size>
+        </font>                 
+        <font>
+            <name>Font-Sublabel_2</name>
+            <filename>arial.ttf</filename>
+            <size>26</size>
+        </font>
+        <font>
+            <name>Font-Sublabel_Tv</name>
+            <filename>arial.ttf</filename>
+            <size>30</size>
+        </font>        
+        <font>
+            <name>Font-Header-He_Music_3</name><!-- האומן -->
+            <filename>arial.ttf</filename>
+            <size>70</size>
+        </font>                      
+        <font>
+            <name>Font-Header-He_Music_5</name><!-- הבא -->
+            <filename>arial.ttf</filename>
+            <size>21</size>
+        </font> 
+        <font>
+            <name>Font-Header-He_Music_6</name><!-- מידע על השיר הבא -->
+            <filename>arial.ttf</filename>
+            <size>21</size>
+        </font>          
+        <font>
+            <name>Font-Header-He_Music_4</name><!-- זמן -->
+            <filename>arial.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>Font-lycros</name><!-- מילים לשיר -->
+            <filename>WCManoNegraBta.ttf</filename>
+            <size>48</size>
+        </font> 
+         <font>
+            <name>Font-ListInfo2</name>
+            <filename>arial.ttf</filename>
+            <size>30</size>
+            <linespacing>1.08</linespacing>
+        </font>  
+        <font>
+            <name>Font-OSD2</name>
+            <filename>arial.ttf</filename>
+            <size>25</size>
+            <aspect>0.9</aspect>
+        </font>
+         <font>
+            <name>Font-Button2</name>
+            <filename>arial.ttf</filename>
+            <size>32</size>
+        </font>                                                   
+        <!-- Required for system -->
+        <font>
+            <name>font13</name>
+            <filename>Arial.ttf</filename>
+            <size>21</size>
+        </font>	
+    </fontset>
+</fonts>
