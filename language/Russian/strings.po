@@ -1,0 +1,1091 @@
+# XBMC Media Center language file
+# Addon Name: Eminence 2
+# Addon id: skin.eminence.2
+# Addon Provider: jurialmunkey
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2016-01-24 18:23+0200\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-main/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+
+# Misc labels
+msgctxt "#31000"
+msgid "Item"
+msgstr "Объект"
+
+msgctxt "#31001"
+msgid "Items"
+msgstr "Объектов"
+
+msgctxt "#31002"
+msgid "Tag"
+msgstr "Тег"
+
+msgctxt "#31003"
+msgid "Next"
+msgstr "Следующая"
+
+msgctxt "#31004"
+msgid "Opaque panels"
+msgstr "Непрозрачная панель"
+
+msgctxt "#31005"
+msgid "Video OSD"
+msgstr "Видео OSD"
+
+msgctxt "#31006"
+msgid "Show plot when pressing info"
+msgstr "Показать сюжет при нажатии данные"
+
+msgctxt "#31007"
+msgid "Show media flags"
+msgstr "Показать значек информации фильма"
+
+msgctxt "#31008"
+msgid "Show plot overlay in video library after delay"
+msgstr "Показать сюжет наложения в видеотеке после задержки"
+
+msgctxt "#31009"
+msgid "Open playlist"
+msgstr "‎Открыть плейлист"
+
+msgctxt "#31010"
+msgid "Save playlist"
+msgstr "‎Сохранить плейлист"
+
+msgctxt "#31011"
+msgid "Close playlist"
+msgstr "‎Закрыть плейлист"
+
+msgctxt "#31012"
+msgid "Current playlist"
+msgstr "‎Текущий плейлист"
+
+msgctxt "#31013"
+msgid "Muted"
+msgstr "‎Приглушенный"
+
+msgctxt "#31014"
+msgid "Show header"
+msgstr "‎Показать информацию в заголовке"
+
+msgctxt "#31015"
+msgid "Live TV"
+msgstr "‎ТВ"
+
+msgctxt "#31016"
+msgid "Show widget information"
+msgstr "Показать виджет информацию"
+
+msgctxt "#31017"
+msgid "Votes"
+msgstr "Голосов"
+
+msgctxt "#31018"
+msgid "Increase"
+msgstr "Увеличить"
+
+msgctxt "#31019"
+msgid "Decrease"
+msgstr "Уменьшить"
+
+msgctxt "#31020"
+msgid "Background"
+msgstr "‎Фон изображения"
+
+msgctxt "#31021"
+msgid "Show fanart"
+msgstr "‎Показать фанарт"
+
+msgctxt "#31027"
+msgid "Show background video"
+msgstr "Показать анимированный фон"
+
+msgctxt "#31028"
+msgid "Show background visualisation"
+msgstr "‎Имитировать анимированный фон"
+
+msgctxt "#31031"
+msgid "Recent movies"
+msgstr "‎Последние фильмы"
+
+msgctxt "#31032"
+msgid "Recommended movies"
+msgstr "‎Рекомендуемые фильмы"
+
+msgctxt "#31034"
+msgid "Enable Artist Slideshow"
+msgstr "Включить презентацию артиста"
+
+msgctxt "#31035"
+msgid "Recent episodes"
+msgstr "Последние серии"
+
+msgctxt "#31036"
+msgid "Recommended episodes"
+msgstr "‎‎Рекомендуемые серии"
+
+msgctxt "#31038"
+msgid "Recent albums"
+msgstr "‎Последние альбомы"
+
+msgctxt "#31039"
+msgid "Recommended albums"
+msgstr "‎‎Рекомендуемые альбомы"
+
+msgctxt "#31043"
+msgid "Extra art"
+msgstr ""
+
+msgctxt "#31044"
+msgid "Local subtitle found!"
+msgstr "Найдены локальные субтитры‬"
+
+msgctxt "#31045"
+msgid "Supplied by"
+msgstr "‎Предоставлено"
+
+msgctxt "#31046"
+msgid "Currently"
+msgstr "‎В настоящее время"
+
+msgctxt "#31047"
+msgid "Visualisation Presets"
+msgstr "‎Предварительная визуализация"
+
+msgctxt "#31048"
+msgid "Playlist Options"
+msgstr "‎Опции плейлиста"
+
+msgctxt "#31049"
+msgid "Customise home menu"
+msgstr "‎Настройка домашнего меню"
+
+msgctxt "#31052"
+msgid "Rated"
+msgstr "Рейтинг"
+
+msgctxt "#31054"
+msgid "Random movies"
+msgstr "‎Случайные фильмы"
+
+msgctxt "#31055"
+msgid "Random episodes"
+msgstr "‎Случайные серии"
+
+msgctxt "#31056"
+msgid "Random albums"
+msgstr "‎‎Случайные альбомы"
+
+msgctxt "#31057"
+msgid "Kiosk mode"
+msgstr "Киоск мод"
+
+msgctxt "#31059"
+msgid "Memory Used:"
+msgstr "Память в использовании:"
+
+msgctxt "#31063"
+msgid "Addons"
+msgstr "Аддоны"
+
+msgctxt "#31064"
+msgid "Custom background image"
+msgstr "‎Пользовательское фоновое изображение"
+
+msgctxt "#31065"
+msgid "Hide 'Mouse' warning"
+msgstr "Скрыть 'Мышь' предупреждение"
+
+msgctxt "#31066"
+msgid "Cinema Exp."
+msgstr ""
+
+msgctxt "#31067"
+msgid "Pages"
+msgstr "Страницы"
+
+msgctxt "#31068"
+msgid "View Options"
+msgstr "‎Показать варианты"
+
+msgctxt "#31069"
+msgid "Context Menu"
+msgstr "‎Контекстное меню"
+
+msgctxt "#31070"
+msgid "Info"
+msgstr "Инфо"
+
+msgctxt "#31071"
+msgid "Finishes at"
+msgstr "Заканчивается в "
+
+msgctxt "#31072"
+msgid "Playing"
+msgstr "Играет"
+
+msgctxt "#31073"
+msgid "Categories"
+msgstr "Категории"
+
+msgctxt "#31074"
+msgid "Set submenu"
+msgstr "‎Задать подменю"
+
+msgctxt "#31075"
+msgid "Icon"
+msgstr "‎Задать значек"
+
+msgctxt "#31076"
+msgid "Weather Fanart"
+msgstr "Фанарт погоды"
+
+msgctxt "#31077"
+msgid "Trending Movies"
+msgstr "‎Актуальные фильмы"
+
+msgctxt "#31078"
+msgid "In Cinemas"
+msgstr "‎В кинотеатрах"
+
+msgctxt "#31079"
+msgid "Upcoming Films"
+msgstr "Скоро в кино"
+
+msgctxt "#31080"
+msgid "Popular Movies"
+msgstr "‎Популярные фильмы"
+
+msgctxt "#31081"
+msgid "Top Rated Movies"
+msgstr "Фильмы с большим рейтингом"
+
+msgctxt "#31082"
+msgid "Popular Shows"
+msgstr "Популярные шоу"
+
+msgctxt "#31083"
+msgid "Top Rated Shows"
+msgstr "‏‎Шоу на первых местах"
+
+msgctxt "#31084"
+msgid "On Air Shows"
+msgstr "Трансляция в настоящее время"
+
+msgctxt "#31085"
+msgid "Airing Today"
+msgstr "Показывали сегодня"
+
+msgctxt "#31086"
+msgid "Custom 1"
+msgstr "Кастомный 1"
+
+msgctxt "#31087"
+msgid "Custom 2"
+msgstr "Кастомный 2"
+
+msgctxt "#31088"
+msgid "Custom 3"
+msgstr "‎Кастомный 3"
+
+msgctxt "#31089"
+msgid "Custom 4"
+msgstr "Кастомный 4"
+
+msgctxt "#31090"
+msgid "Content Loading"
+msgstr "‎Загрузка содержимого"
+
+msgctxt "#31091"
+msgid "Trending Shows"
+msgstr "‎‎Актуальные выступления"
+
+msgctxt "#31092"
+msgid "No information available"
+msgstr "‎Нет информации"
+
+msgctxt "#31093"
+msgid "Movie Hub"
+msgstr "Фильмы Hub"
+
+msgctxt "#31094"
+msgid "TV Hub"
+msgstr "‏‎Сериалы Hub"
+
+msgctxt "#31095"
+msgid "Spotlight"
+msgstr "Предварительный просмотр"
+
+msgctxt "#31096"
+msgid "Hub items"
+msgstr "Меню Hub"
+
+msgctxt "#31097"
+msgid "Hub widget"
+msgstr "‏‎Виджет Hub"
+
+msgctxt "#31098"
+msgid "Artwork"
+msgstr "Иллюстрация"
+
+msgctxt "#31099"
+msgid "Codec"
+msgstr "Кодек"
+
+msgctxt "#31100"
+msgid "Recently Added"
+msgstr "Недавно добавленные"
+
+msgctxt "#31101"
+msgid "Recently Played"
+msgstr "Недавно просмотрено"
+
+msgctxt "#31102"
+msgid "Watch Random"
+msgstr "‎Случайный просмотр"
+
+msgctxt "#31103"
+msgid "Delete Settings Shortcut"
+msgstr "Удалить настройки ярлыков"
+
+msgctxt "#31104"
+msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
+msgstr "‎Вы уверены что хотите удалить настройки ярлыков?[CR]Пожалуйста убедитесь что у Вас есть альтернативный путь к настройкам прежде чем удалить этот ярлык."
+
+msgctxt "#31105"
+msgid "Extra Info"
+msgstr "Подробная информация"
+
+msgctxt "#31106"
+msgid "3D Mode"
+msgstr "Мод 3D"
+
+msgctxt "#31107"
+msgid "Similar"
+msgstr "‎Похожий"
+
+msgctxt "#31108"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "#31109"
+msgid "provided by themoviedb.org"
+msgstr "‎предоставлено themoviedb.org"
+
+msgctxt "#31110"
+msgid "Extras"
+msgstr "Добавки"
+
+msgctxt "#31111"
+msgid "Choose primary highlight color"
+msgstr "Выберите цвет заголовка"
+
+msgctxt "#31112"
+msgid "Choose secondary highlight color"
+msgstr "Выберите цвет подзаголовка"
+
+msgctxt "#31113"
+msgid "Reset colors to defaults"
+msgstr "Сброс цвета по умолчанию"
+
+msgctxt "#31114"
+msgid "Set weather fanart"
+msgstr "‎Установить фанарт погоды"
+
+msgctxt "#31115"
+msgid "Show weather with clock"
+msgstr "Показать погоду с часами"
+
+msgctxt "#31116"
+msgid "Animate fanart"
+msgstr "‎Анимированный Фанарт"
+
+msgctxt "#31117"
+msgid "mins"
+msgstr "минуты"
+
+msgctxt "#31118"
+msgid "Animate artist slideshow"
+msgstr "‎‎Анимированный показ артиста"
+
+msgctxt "#31119"
+msgid "Show visualisation behind artist slideshow"
+msgstr "‎Показать визуализацию"
+
+msgctxt "#31121"
+msgid "Music OSD"
+msgstr "Музыка OSD"
+
+msgctxt "#31122"
+msgid "Match header tile with highlight color"
+msgstr "Подогнать цвет меню плитки выбранным цветом"
+
+msgctxt "#31123"
+msgid "Hub"
+msgstr "Пользовательский Hub"
+
+msgctxt "#31124"
+msgid "Similar movies"
+msgstr "‎Похожие фильмы"
+
+msgctxt "#31125"
+msgid "Similar to"
+msgstr "‏‎Похоже на -"
+
+msgctxt "#31126"
+msgid "Colors"
+msgstr "Цвета"
+
+msgctxt "#31127"
+msgid "Header"
+msgstr "Заголовок"
+
+msgctxt "#31128"
+msgid "color"
+msgstr "‎настроить цвет"
+
+msgctxt "#31129"
+msgid "Enable individual tile colors in home customisation"
+msgstr "‎Включить цвета отдельным плиткам в личной настройке"
+
+msgctxt "#31130"
+msgid "items found"
+msgstr "‎найдено"
+
+msgctxt "#31131"
+msgid "Search Options"
+msgstr "‎Настройки поиска"
+
+msgctxt "#31132"
+msgid "by Title"
+msgstr "по заголовку"
+
+msgctxt "#31133"
+msgid "by Genre"
+msgstr "‎по стилям"
+
+msgctxt "#31134"
+msgid "by Actor"
+msgstr "‎По артисту"
+
+msgctxt "#31135"
+msgid "by Director"
+msgstr "по ‎режиссеру"
+
+msgctxt "#31136"
+msgid "by Studio"
+msgstr "‎по студии"
+
+msgctxt "#31137"
+msgid "Panel list"
+msgstr "Панель дисплея"
+
+msgctxt "#31138"
+msgid "Show clock"
+msgstr "‎Показать часы"
+
+msgctxt "#31139"
+msgid "Hubs"
+msgstr "Центр содержимого"
+
+msgctxt "#31140"
+msgid "Show tile colour on unfocused tiles"
+msgstr "Показать цвет плитки на нефокусированных плитках"
+
+msgctxt "#31141"
+msgid "Info icons"
+msgstr "‎Инфо значка"
+
+msgctxt "#31142"
+msgid "Big list info"
+msgstr "Большой информационный список"
+
+msgctxt "#31143"
+msgid "Media Info 2"
+msgstr "‎Медиа инфо 2"
+
+msgctxt "#31144"
+msgid "Player Controls"
+msgstr "Управление воспроизведением"
+
+msgctxt "#31145"
+msgid "Extended Info"
+msgstr "‎Расширенная информация"
+
+msgctxt "#31146"
+msgid "Fanart fallback image"
+msgstr "Запасное изображение виджета"
+
+msgctxt "#31147"
+msgid "Fallback widget"
+msgstr "‎Виджет по умолчанию"
+
+msgctxt "#31148"
+msgid "Media Info 3"
+msgstr "‎Медиа инфо 3"
+
+msgctxt "#31149"
+msgid "Next Aired"
+msgstr "Разрешить аддон NextAried"
+
+msgctxt "#31150"
+msgid "Show widget posters"
+msgstr "Показать виджет постеры"
+
+msgctxt "#31151"
+msgid "Home tile icon"
+msgstr "Настроить домашний значек"
+
+msgctxt "#31152"
+msgid "Home tile text"
+msgstr "Установить название главного экрана"
+
+msgctxt "#31153"
+msgid "Always"
+msgstr "Всегда"
+
+msgctxt "#31154"
+msgid "On Up"
+msgstr "Один наверх - кнопка клавиатуры"
+
+msgctxt "#31155"
+msgid "Never"
+msgstr "Никогда"
+
+msgctxt "#31156"
+msgid "Show widget discart"
+msgstr "Показать виджет Discart"
+
+msgctxt "#31157"
+msgid "Home header text"
+msgstr "Установить текст в заголовке"
+
+msgctxt "#31158"
+msgid "Media Center"
+msgstr "Медиа"
+
+msgctxt "#31159"
+msgid "Background overlay image"
+msgstr "Главное фоновое изображение оболочки"
+
+msgctxt "#31160"
+msgid "Busy spinner"
+msgstr "Сменить значок занят"
+
+msgctxt "#31161"
+msgid "Backup skin settings"
+msgstr "Резервное копирование настроек оболочки"
+
+msgctxt "#31162"
+msgid "Restore skin settings from file"
+msgstr "Восстановить настройки оболочки из файла"
+
+msgctxt "#31163"
+msgid "Gallery"
+msgstr "Галерея"
+
+msgctxt "#31164"
+msgid "Fanart list"
+msgstr "Фанарт список"
+
+msgctxt "#31165"
+msgid "Show sorting and info line headers"
+msgstr "Показать название и информацию на экране настройки"
+
+msgctxt "#31166"
+msgid "Individually set in customisation dialog"
+msgstr "Индивидуальные значения в окне личных настроек"
+
+msgctxt "#31167"
+msgid "Show unwatched count in header"
+msgstr "Показать количество непросмотренного контента"
+
+msgctxt "#31168"
+msgid "Now / Next"
+msgstr "Сейчас / Следующий"
+
+msgctxt "#31169"
+msgid "Reset skin settings to defaults  (WARNING - This will override all skin settings)"
+msgstr "Сброс настроек оболочки к заводским(ВНИМАНИЕ - это сбросит все настройки сделанные пользователем)"
+
+msgctxt "#31170"
+msgid "Backup / Restore"
+msgstr "Резервное копирование / восстановление"
+
+msgctxt "#31171"
+msgid "Reload skin"
+msgstr "Обновить оболочку"
+
+msgctxt "#31172"
+msgid "Transparent home bar"
+msgstr "Разрешить прозрачность плиток"
+
+msgctxt "#31173"
+msgid "Home bar style"
+msgstr "Установить домашний дизайн"
+
+msgctxt "#31174"
+msgid "Weather icons"
+msgstr "Изменить значки погоды"
+
+msgctxt "#31175"
+msgid "Customise shutdown menu"
+msgstr "Настроить меню выключения"
+
+msgctxt "#31176"
+msgid "Genre icons"
+msgstr "Настроить значек жанр"
+
+msgctxt "#31180"
+msgid "Default"
+msgstr "По умолчанию"
+
+msgctxt "#31181"
+msgid "Text in tiles"
+msgstr "Текст в плитках"
+
+msgctxt "#31182"
+msgid "Text only"
+msgstr "Только текст"
+
+msgctxt "#31183"
+msgid "Customise shutdown menu"
+msgstr "Настроить меню выключения"
+
+msgctxt "#31184"
+msgid "Startup video or playlist"
+msgstr "Видео при включение или плейлист"
+
+msgctxt "#31185"
+msgid "Label"
+msgstr "Задать заголовок"
+
+msgctxt "#31186"
+msgid "Action"
+msgstr "Боевик"
+
+msgctxt "#31187"
+msgid "Background"
+msgstr "Фоновое изображения"
+
+msgctxt "#31188"
+msgid "None (show user background)"
+msgstr "Без (отображение фонового изображения пользователя)"
+
+msgctxt "#31189"
+msgid "None"
+msgstr "Без"
+
+msgctxt "#31190"
+msgid "Next Episode"
+msgstr "В следующей серии"
+
+msgctxt "#31191"
+msgid "Last Episode"
+msgstr "Последняя серия"
+
+msgctxt "#31192"
+msgid "Info List"
+msgstr "Информационный список"
+
+msgctxt "#31193"
+msgid "Box Office"
+msgstr "Box"
+
+msgctxt "#31194"
+msgid "Manage Home Screen"
+msgstr "Настроить главный экран"
+
+msgctxt "#31195"
+msgid "Show movies/tv shows clearlogos\""
+msgstr "Показать логотип фильма"
+
+msgctxt "#31196"
+msgid "with logos"
+msgstr "с логотипом"
+
+msgctxt "#31197"
+msgid "Show albums CDArt on albums infos"
+msgstr "Показать CDart альбомы дисков"
+
+msgctxt "#31198"
+msgid "Path to albums CDArt directory"
+msgstr "Папка местоположения музыки для cdart"
+
+msgctxt "#31199"
+msgid "Show artists clearlogos"
+msgstr "Показать логотип альбома"
+
+msgctxt "#31200"
+msgid "Path to Artists Artworks directory"
+msgstr "Местоположение папки музыка/ логотип"
+
+msgctxt "#31201"
+msgid "Fakecdart"
+msgstr "Показать поддельный диск"
+
+msgctxt "#31202"
+msgid "Show plot for hub widgets"
+msgstr "Показать график при нажатии на «информацию»"
+
+msgctxt "#31203"
+msgid "Necessary Addons"
+msgstr "Установленые дополнения - требуется"
+
+msgctxt "#31204"
+msgid "Show ClearLogo on widgets tile"
+msgstr "Показать логотип фильма в окне виджета (домашний экран)"
+
+msgctxt "#31205"
+msgid "Show ClearArt on video infos"
+msgstr "Показать логотип фильма в окне OSD"
+
+msgctxt "#31206"
+msgid "Widget"
+msgstr "Виджет"
+
+msgctxt "#31207"
+msgid "Submenu"
+msgstr "Подменю"
+
+msgctxt "#31208"
+msgid "Color"
+msgstr "Выбрать цвет"
+
+msgctxt "#31209"
+msgid "Choose shortcut"
+msgstr "Выбрать ярлык"
+
+msgctxt "#31210"
+msgid "Restore shortcut"
+msgstr "Сбросить ярлыки"
+
+msgctxt "#31211"
+msgid "Fanarts transparency"
+msgstr "Прозрачность фона фильма"
+
+msgctxt "#31212"
+msgid "Show media flags on Hub widget"
+msgstr "Показать значки подробно о фильме в окне виджета"
+
+msgctxt "#31213"
+msgid "Download subtitles"
+msgstr "Скачать субтитры"
+
+msgctxt "#31214"
+msgid "Next subtitles"
+msgstr "Следующие субтитры"
+
+msgctxt "#31215"
+msgid "active"
+msgstr "активный"
+
+msgctxt "#31216"
+msgid "Subtitles"
+msgstr "Субтитры"
+
+msgctxt "#31217"
+msgid "inactive"
+msgstr "неактивный"
+
+msgctxt "#31218"
+msgid "Enable Holiday"
+msgstr "Включить снег"
+
+msgctxt "#31219"
+msgid "Album wall"
+msgstr "Показать стену альбом"
+
+msgctxt "#31220"
+msgid "Artist Slideshow"
+msgstr "Слайд-шоу артиста"
+
+msgctxt "#31221"
+msgid "Hide header tile"
+msgstr "Отменить название"
+
+msgctxt "#31222"
+msgid "Music visualisation background"
+msgstr "Изменить визуальный фон"
+
+msgctxt "#31223"
+msgid "Fanart"
+msgstr "Фанарт"
+
+msgctxt "#31224"
+msgid "Color"
+msgstr "Цвет"
+
+msgctxt "#31225"
+msgid "Select background color"
+msgstr "Изменить общий цвет скина"
+
+msgctxt "#31226"
+msgid "Beveled Tiles"
+msgstr "Скошенные плитки"
+
+msgctxt "#31227"
+msgid "Rounded tiles tiles with rounded corners"
+msgstr "Плитки с закругленными углами"
+
+msgctxt "#31228"
+msgid "Square tiles"
+msgstr "Квадратные плитки"
+
+msgctxt "#31229"
+msgid "This category contains all necessary addons so that the skin works correctly."
+msgstr "Здесь показаны дополнения необходимые для скина, если дополнение не установлено Вы можете установить его нажав на его название."
+
+msgctxt "#31230"
+msgid "Last Updated :"
+msgstr "Обновлено:"
+
+msgctxt "#31231"
+msgid "This category contains the settings for home menu."
+msgstr "Эта категория содержит настройки для домашнего экрана"
+
+msgctxt "#31232"
+msgid "This category contains the settings for background."
+msgstr "Эта категория содержит настройки для фона"
+
+msgctxt "#31233"
+msgid "This category contains the settings for music OSD."
+msgstr "Эта категория содержит настройки для фона музыки"
+
+msgctxt "#31234"
+msgid "This category contains the settings for video OSD."
+msgstr "Эта категория содержит настройки для фона видео"
+
+msgctxt "#31235"
+msgid "This category contains the settings for header."
+msgstr "Эта категория включает в себя настройки для заголовка"
+
+msgctxt "#31236"
+msgid "This category contains the settings for display items."
+msgstr "Эта категория содержит настройки для элементов"
+
+msgctxt "#31237"
+msgid "This category contains the settings for highlight colors."
+msgstr "Эта категория содержит настройки подсветки заголовка"
+
+msgctxt "#31238"
+msgid "This category contains the skin extras settings."
+msgstr "Эта категория содержит настройки для дополнений"
+
+msgctxt "#31239"
+msgid "This category contains the settings for backup and restore skin settings."
+msgstr "Эта категория включает в себя параметры резервного копирования и восстановления"
+
+msgctxt "#31240"
+msgid "Configure home menu and widgets."
+msgstr "Настройка вида главного меню и виджетов"
+
+msgctxt "#31241"
+msgid "Select the widget to display when no widget is selected in the configuration of the home menu."
+msgstr "Выберите виджет который появится когда нет выбранного виджета, на главном экране"
+
+msgctxt "#31242"
+msgid "Show widget tile and informations on home menu."
+msgstr "Показать виджет инфо и информацию на главном экране"
+
+msgctxt "#31243"
+msgid "Choose how posters are displayed with widgets. [[B]Never[/B]]\" No poster is displayed with widgets. [[B]Always[/B]] Posters are always displayed with widgets. [[B]On Up[/B]] Posters are displayed only when pressing the Up button. [B]Individually set in customisation dialog[/B]] Choose to display or not posters individually for each widget via customise home menu."
+msgstr "Выберите какие постеры будут показаны виджетом.[[B]Нет[/B]]Постеры не будет отображаться с помощью виджета.[[B]Всегда[/B]]Постеры всегда будет показаны с помощью виджета.[[B]Для[/B]]Постеры будут отображаться только тогда когда вы нажмёте на клавиатуре наверх.[B]Настроить отдельно с помощью личной настройки[/B]]Выберите как отображать, отображать или не отображать личные настройки."
+
+msgctxt "#31244"
+msgid "Show discs with widgets."
+msgstr "Показать диск с виджетом"
+
+msgctxt "#31245"
+msgid "Show clearlogos with widgets."
+msgstr "Показать clearlogos с виджетом"
+
+msgctxt "#31246"
+msgid "Choose home tile icon."
+msgstr "Выбрать значок для плитки главного меню"
+
+msgctxt "#31247"
+msgid "Set home tile text."
+msgstr "Установить текст плитки главного меню"
+
+msgctxt "#31248"
+msgid "Set home header text."
+msgstr "Установить текст заголовка скина"
+
+msgctxt "#31249"
+msgid "Lets make transparente the home bar menu"
+msgstr "Разрешить прозрачность бара плиток и верхней части"
+
+msgctxt "#31250"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31251"
+msgid "Caps lock"
+msgstr "Caps lock"
+
+msgctxt "#31252"
+msgid "Installed"
+msgstr "Установленно"
+
+msgctxt "#31253"
+msgid "Not installed"
+msgstr "Не установленно"
+
+msgctxt "#31254"
+msgid "Enable individual text color for each tile in home customisation"
+msgstr "Разрешить индивидуальный цвет текста для каждой плитки в личной настройке"
+
+msgctxt "#31255"
+msgid "Text color"
+msgstr "Цвет текста"
+
+msgctxt "#31256"
+msgid "Widgets tile style"
+msgstr "Стиль фона плитки"
+
+msgctxt "#31257"
+msgid "Widgets text Background cd"
+msgstr "Виджет фона сзади - подобран для CD"
+
+msgctxt "#31258"
+msgid "Widgets text Background Rounded"
+msgstr "Виджет фона сзади - закругленные углы"
+
+msgctxt "#31259"
+msgid "Widgets text Background Square"
+msgstr "Виджет фона сзади - квадратный"
+
+msgctxt "#31261"
+msgid "Hub-2"
+msgstr "Пользовательская настройка Hub 2"
+
+msgctxt "#31262"
+msgid "Hub-3"
+msgstr "Пользовательская настройка Hub 3"
+
+msgctxt "#31263"
+msgid "Hub-4"
+msgstr "Пользовательская настройка Hub 4"
+
+msgctxt "#31264"
+msgid "Hub-5"
+msgstr "Пользовательская настройка Hub 5"
+
+msgctxt "#31265"
+msgid "Hub-6"
+msgstr "Пользовательская настройка Hub 6"
+
+msgctxt "#31266"
+msgid "Hub-7"
+msgstr "Пользовательская настройка Hub 7"
+
+msgctxt "#31267"
+msgid "Show background video"
+msgstr "Показать видео"
+
+msgctxt "#31268"
+msgid "Hide playback infos"
+msgstr "Скрыть информацию окна артиста"
+
+msgctxt "#31269"
+msgid "Debug info"
+msgstr "Информация для отладки"
+
+msgctxt "#31270"
+msgid "Empty Rounded tiles"
+msgstr "Круглые плитки пустые"
+
+msgctxt "#31271"
+msgid "Empty beveled tiles"
+msgstr "Скошенные плитки пустые"
+
+msgctxt "#31272"
+msgid "Empty squared tiles"
+msgstr "Квадратные плитки пустые"
+
+msgctxt "#31273"
+msgid "Rounded tiles"
+msgstr "Круглые плитки"
+
+msgctxt "#31274"
+msgid "Rounded tiles tiles with rounded corners"
+msgstr "Закругленые плитки пустые в углах"
+
+msgctxt "#31275"
+msgid "tiles icon"
+msgstr "Значки плиток от пользователя"
+
+msgctxt "#31276"
+msgid "Home bar color and opacity"
+msgstr "Изменить цвет бара и видимости"
+
+msgctxt "#31277"
+msgid "Reset home bar color and opacity"
+msgstr "Сбросить цвет бара и видимости"
+
+msgctxt "#31278"
+msgid "Color and opacity of secondary widget tile"
+msgstr "Измененить цвет окна виджета"
+
+msgctxt "#31279"
+msgid "Reset color and opacity of primary widget tile"
+msgstr "Сбросить цвет окна виджета"
+
+msgctxt "#31280"
+msgid "Color and opacity of secondary widget tile"
+msgstr "Измененить цвет эффекта видеоплёнки и видимости"
+
+msgctxt "#31281"
+msgid "Reset color and opacity of secondary widget tile"
+msgstr "Сбросить цвет эффекта видеоплёнки и видимости"
+
+msgctxt "#31282"
+msgid "Posters list"
+msgstr "Список постеров"
+
+msgctxt "#31283"
+msgid "Replace widget fanart with background"
+msgstr "Поменять изображение виджета фильма"
+
+msgctxt "#31284"
+msgid "Password protection"
+msgstr "Защитить паролем"
+
+msgctxt "#31285"
+msgid "Password protection for menu items"
+msgstr "Защитить паролем пункты меню"
+
+msgctxt "#31286"
+msgid "Password has been successfully set !"
+msgstr "Пароль был успешно установлен!"
+
+msgctxt "#31287"
+msgid "Duration of protection for menu items"
+msgstr "Продолжительность защиты элементов меню"
+
+msgctxt "#31288"
+msgid "Password protected content"
+msgstr "Содержимое защищено паролем"
+
+msgctxt "#31289"
+msgid "Press [B]Enter[/B] and insert password."
+msgstr "Нажмите [B]Enter[/B] чтоб ввести пароль"
+
+msgctxt "#31290"
+msgid "Incorrect password ! Please Retry."
+msgstr "Неправильный пароль! Пожалуйста попробуйте еще раз."
+
+msgctxt "#31291"
+msgid "Correct password ! This menu is now available for"
+msgstr "Правильный пароль! Это меню доступно в течении"
